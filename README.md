@@ -1,5 +1,4 @@
 # MortgageLoanCsharpExcelDNA 
-
 Building Mortgage Loan Cash flows with C# Excel DNA Add-ins
 
 In this C# project we create a simple mortgage loan library to deal with the repayment of a loan. The library deals with two types of amortisation: Principal and Interest, and Interest Only. The loan interest rate can be fixed for life, or fixed for the first years, and then it resets to a variable rate plus a spread.
