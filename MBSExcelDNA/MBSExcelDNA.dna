@@ -1,0 +1,3 @@
+﻿<DnaLibrary Name="MBSExcelDNA" RuntimeVersion="v4.0">
+<ExternalLibrary Path="MBSExcelDNA.dll" Pack="true"/>
+</DnaLibrary>
