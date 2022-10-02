@@ -1,4 +1,4 @@
-# MortgageLoanCsharpExcelDNA
+# Mortgage Loan Csharp Excel DNA
 
 Building Mortgage Loan Cash flows with C# Excel DNA Add-ins
 
